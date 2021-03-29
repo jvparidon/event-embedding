@@ -1,0 +1,161 @@
+ItemNum	Pic_Sent	Plaus_Implaus	Stimulus	List	agent	verb	patient	agent_start	agent_end	action_start	action_end	patient_start	patient_end
+1	sent	plaus	The cop is arresting the criminal.	2	2	4	6	1	2	3	4	5	6
+1	sent	implaus	The criminal is arresting the cop.	1	2	4	6	1	2	3	4	5	6
+2	sent	plaus	The babysitter is scolding the child.	1	2	4	6	1	2	3	4	5	6
+2	sent	implaus	The child is scolding the babysitter.	2	2	4	6	1	2	3	4	5	6
+3	sent	plaus	The doctor is using a stethoscope on the patient.	2	2	6	9	1	2	3	7	8	9
+3	sent	implaus	The patient is using a stethoscope on the doctor.	1	2	6	9	1	2	3	7	8	9
+4	sent	plaus	The fireman is rescuing the grandmother.	1	2	4	6	1	2	3	4	5	6
+4	sent	implaus	The grandmother is rescuing the fireman.	2	2	4	6	1	2	3	4	5	6
+5	sent	plaus	The dentist is treating the patient.	2	2	4	6	1	2	3	4	5	6
+5	sent	implaus	The patient is treating the dentist.	1	2	4	6	1	2	3	4	5	6
+6	sent	plaus	The ghost is frightening the girl.	1	2	4	6	1	2	3	4	5	6
+6	sent	implaus	The girl is frightening the ghost.	2	2	4	6	1	2	3	4	5	6
+7	sent	plaus	The mother is feeding the baby.	2	2	4	6	1	2	3	4	5	6
+7	sent	implaus	The baby is feeding the mother.	1	2	4	6	1	2	3	4	5	6
+8	sent	plaus	The artist is painting the businessman.	1	2	4	6	1	2	3	4	5	6
+8	sent	implaus	The businessman is painting the artist.	2	2	4	6	1	2	3	4	5	6
+9	sent	plaus	The groom is carrying the bride.	2	2	4	6	1	2	3	4	5	6
+9	sent	implaus	The bride is carrying the groom.	1	2	4	6	1	2	3	4	5	6
+10	sent	plaus	The jester is entertaining the king.	1	2	4	6	1	2	3	4	5	6
+10	sent	implaus	The king is entertaining the jester.	2	2	4	6	1	2	3	4	5	6
+11	sent	plaus	The lion is pouncing on the Safari guide.	2	2	4	8	1	2	3	5	6	8
+11	sent	implaus	The Safari guide is pouncing on the lion.	1	3	5	8	1	3	4	6	7	8
+12	sent	plaus	The photographer is taking a picture of the model.	1	2	6	9	1	2	3	7	8	9
+12	sent	implaus	The model is taking a picture of the photographer.	2	2	6	9	1	2	3	7	8	9
+13	sent	plaus	The pirate is kidnapping the princess.	2	2	4	6	1	2	3	4	5	6
+13	sent	implaus	The princess is kidnapping the pirate.	1	2	4	6	1	2	3	4	5	6
+14	sent	plaus	The priest is blessing the bride.	1	2	4	6	1	2	3	4	5	6
+14	sent	implaus	The bride is blessing the priest.	2	2	4	6	1	2	3	4	5	6
+15	sent	plaus	The shark is biting the snorkeler.	2	2	4	6	1	2	3	4	5	6
+15	sent	implaus	The snorkeler is biting the shark.	1	2	4	6	1	2	3	4	5	6
+16	sent	plaus	The professor is lecturing to the student.	1	2	4	7	1	2	3	5	6	7
+16	sent	implaus	The student is lecturing to the professor.	2	2	4	7	1	2	3	5	6	7
+17	sent	plaus	The vampire is biting the woman.	2	2	4	6	1	2	3	4	5	6
+17	sent	implaus	The woman is biting the vampire.	1	2	4	6	1	2	3	4	5	6
+18	sent	plaus	The waiter is serving the customer.	1	2	4	6	1	2	3	4	5	6
+18	sent	implaus	The customer is serving the waiter.	2	2	4	6	1	2	3	4	5	6
+19	sent	plaus	The lawyer is giving money to the beggar.	2	2	6	8	1	2	3	6	7	8
+19	sent	implaus	The beggar is giving money to the lawyer.	1	2	6	8	1	2	3	6	7	8
+20	sent	plaus	The chef is cooking for the lady.	1	2	4	7	1	2	3	5	6	7
+20	sent	implaus	The lady is cooking for the chef.	2	2	4	7	1	2	3	5	6	7
+21	sent	plaus	The ballerina is dancing for the grandpa.	2	2	4	7	1	2	3	5	6	7
+21	sent	implaus	The grandpa is dancing for the ballerina.	1	2	4	7	1	2	3	5	6	7
+22	sent	plaus	The journalist is interviewing the sportsstar.	1	2	4	6	1	2	3	4	5	6
+22	sent	implaus	The sportsstar is interviewing the journalist.	2	2	4	6	1	2	3	4	5	6
+23	sent	plaus	The judge is sentencing the criminal.	2	2	4	6	1	2	3	4	5	6
+23	sent	implaus	The criminal is sentencing the judge.	1	2	4	6	1	2	3	4	5	6
+24	sent	plaus	The father is pulling the child on the sled.	1	2	4	6	1	2	3	4	5	6
+24	sent	implaus	The child is pulling the father on the sled.	2	2	4	6	1	2	3	4	5	6
+25	sent	plaus	Santa is giving the girl a present.	2	1	3	5	1	1	2	3	4	5
+25	sent	implaus	The girl is giving Santa a present.	1	2	4	5	1	2	3	4	5	5
+26	sent	plaus	The peasant is bowing to the queen.	1	2	4	7	1	2	3	5	6	7
+26	sent	implaus	The queen is bowing to the peasant.	2	2	4	7	1	2	3	5	6	7
+27	sent	plaus	The lady is applauding the athlete.	2	2	4	6	1	2	3	4	5	6
+27	sent	implaus	The athlete is applauding the lady.	1	2	4	6	1	2	3	4	5	6
+28	sent	plaus	The father is tying the son's shoes.	1	2	4	6	1	2	3	4	5	6
+28	sent	implaus	The son is tying the father's shoes.	2	2	4	6	1	2	3	4	5	6
+29	sent	plaus	The thief is stealing the purse from the grandma.	2	2	4	9	1	2	3	7	7	8
+29	sent	implaus	The grandma is stealing the purse from the thief.	1	2	4	9	1	2	3	7	7	8
+30	sent	plaus	The cat is chasing the mouse.	1	2	4	6	1	2	3	4	5	6
+30	sent	implaus	The mouse is chasing the cat.	2	2	4	6	1	2	3	4	5	6
+31	sent	plaus	The visitor is pushing the patient.	2	2	4	6	1	2	3	4	5	6
+31	sent	implaus	The patient is pushing the visitor.	1	2	4	6	1	2	3	4	5	6
+32	sent	plaus	The relative is bringing flowers to the patient.	1	2	5	8	1	2	3	6	7	8
+32	sent	implaus	The patient is bringing flowers to the relative.	2	2	5	8	1	2	3	6	7	8
+33	sent	plaus	The boss is yelling at the worker.	2	2	4	7	1	2	3	5	6	7
+33	sent	implaus	The worker is yelling at the boss.	1	2	4	7	1	2	3	5	6	7
+34	sent	plaus	The dog is leading the blind person.	1	2	4	6	1	2	3	4	5	7
+34	sent	implaus	The blind person is leading the dog.	2	2	5	7	1	3	4	5	6	7
+35	sent	plaus	The bouncer is preventing the woman from entering.	2	2	4	6	1	2	3	4	5	6
+35	sent	implaus	The woman is preventing the bouncer from entering.	1	2	4	6	1	2	3	4	5	6
+36	sent	plaus	The dog is licking the girl on the face.	1	2	4	6	1	2	3	4	5	6
+36	sent	implaus	The girl is licking the dog on the face.	2	2	4	6	1	2	3	4	5	6
+37	sent	plaus	The man is proposing to the woman.	2	2	4	7	1	2	3	5	6	7
+37	sent	implaus	The woman is proposing to the man.	1	2	4	7	1	2	3	5	6	7
+38	sent	plaus	The tailor is measuring the princess.	1	2	4	6	1	2	3	4	5	6
+38	sent	implaus	The princess is measuring the tailor.	2	2	4	6	1	2	3	4	5	6
+39	sent	plaus	The lifeguard is saving the grandmother.	2	2	4	6	1	2	3	4	5	6
+39	sent	implaus	The grandmother is saving the lifeguard.	1	2	4	6	1	2	3	4	5	6
+40	sent	plaus	The chauffeur is opening the door for the lady.	1	2	6	9	1	2	3	7	8	9
+40	sent	implaus	The lady is opening the door for the chauffeur.	2	2	6	9	1	2	3	7	8	9
+1	pic	plaus	01_plaus_cop_arrests_criminal.jpg	1									
+1	pic	implaus	01_implaus_criminal_arrests_cop.jpg	2									
+2	pic	plaus	02_plaus_babysitter_scolding_child.jpg	2									
+2	pic	implaus	02_implaus_child_scolding_babysitter.jpg	1									
+3	pic	plaus	03_plaus_doctor_uses_stethoscope_on_patient.jpg	1									
+3	pic	implaus	03_implaus_patient_uses_stethoscope_on_doctor.jpg	2									
+4	pic	plaus	04_plaus_fireman_rescuse_grandmother.jpg	2									
+4	pic	implaus	04_implaus_grandmother_rescuse_fireman.jpg	1									
+5	pic	plaus	05_plaus_dentist_treating_patient.jpg	1									
+5	pic	implaus	05_implaus_patient_treating_dentist.jpg	2									
+6	pic	plaus	06_plaus_ghost_frightens_girl.jpg	2									
+6	pic	implaus	06_implaus_girl_frightens_ghost.jpg	1									
+7	pic	plaus	07_plaus_mother_feeding_baby.jpg	1									
+7	pic	implaus	07_implaus_baby_feeding_mother.jpg	2									
+8	pic	plaus	08_plaus_artist_painting_business_man.jpg	2									
+8	pic	implaus	08_implaus_business_man_painting_artist.jpg	1									
+9	pic	plaus	09_plaus_groom_carries_bride.jpg	1									
+9	pic	implaus	09_implaus_bride_carries_groom.jpg	2									
+10	pic	plaus	10_plaus_jester_entertains_king.jpg	2									
+10	pic	implaus	10_implaus_king_entertain_jester.jpg	1									
+11	pic	plaus	11_plaus_lion_chases_guide.jpg	1									
+11	pic	implaus	11_implaus_guide_chases_lion.jpg	2									
+12	pic	plaus	12_plaus_photographer_photographes_model.jpg	2									
+12	pic	implaus	12_implaus_model_photographes_photographer.jpg	1									
+13	pic	plaus	13_plaus_pirate_kidnaping_princess.jpg	1									
+13	pic	implaus	13_implaus_princess_kidnaping_pirate.jpg	2									
+14	pic	plaus	14_plaus_priest_blesses_bride.jpg	2									
+14	pic	implaus	14_implaus_bride_blesses_priest.jpg	1									
+15	pic	plaus	15_plaus_shark_bites_snorkeler.jpg	1									
+15	pic	implaus	15_implaus_snorkler_bites_shark.jpg	2									
+16	pic	plaus	16_plaus_professor_lectures_to_a_student.jpg	2									
+16	pic	implaus	16_implaus_student_lectures_to_a_professor.jpg	1									
+17	pic	plaus	17_plaus_vampir_bites_woman.jpg	1									
+17	pic	implaus	17_implaus_woman_bites_vampir.jpg	2									
+18	pic	plaus	18_plaus_waiter_serving_customer.jpg	2									
+18	pic	implaus	18_implaus_customer_serving_waiter.jpg	1									
+19	pic	plaus	19_plaus_man_gives_to_beggar.jpg	1									
+19	pic	implaus	19_implaus_beggar_gives_to_man.jpg	2									
+20	pic	plaus	20_plaus_chef_cooks_for_lady.jpg	2									
+20	pic	implaus	20_implaus_lady_cooks_for_chef.jpg	1									
+21	pic	plaus	21_plaus_ballerina_dances_for_grandpa.jpg	1									
+21	pic	implaus	21_implaus_grandpa_dances_for_ballerina.jpg	2									
+22	pic	plaus	22_plaus_journalist_interviews_sports_star.jpg	2									
+22	pic	implaus	22_implaus_sports_star_interviews_journalist.jpg	1									
+23	pic	plaus	23_plaus_judge_sentences_criminal.jpg	1									
+23	pic	implaus	23_implaus_criminal_sentences_judge.jpg	2									
+24	pic	plaus	24_plaus_father_pulls_child.jpg	2									
+24	pic	implaus	24_implaus_child_pulls_father.jpg	1									
+25	pic	plaus	25_plaus_santa_gives_present_to_girl.jpg	1									
+25	pic	implaus	25_implaus_girl_gives_present_to_santa.jpg	2									
+26	pic	plaus	26_plaus_peasant_bows_to_queen.jpg	2									
+26	pic	implaus	26_implaus_queen_bows_to_peasant.jpg	1									
+27	pic	plaus	27_plaus_lady_applauds_the_athlete.jpg	1									
+27	pic	implaus	27_implaus_athlete_applauds_the_lady.jpg	2									
+28	pic	plaus	28_plaus_father_laces_shoes_of_child.jpg	2									
+28	pic	implaus	28_implaus_child_laces_shoes_of_father.jpg	1									
+29	pic	plaus	29_plaus_thief_steals_from_grandma.jpg	1									
+29	pic	implaus	29_implaus_grandma_steals_from_thief.jpg	2									
+30	pic	plaus	30_plaus_cat_chases_mouse.jpg	2									
+30	pic	implaus	30_implaus_mouse_chases_cat.jpg	1									
+31	pic	plaus	31_plaus_visitor_pushes_nurse.jpg	1									
+31	pic	implaus	31_implaus_patient_pushes_visitor.jpg	2									
+32	pic	plaus	32_plaus_relative_visits_patient.jpg	2									
+32	pic	implaus	32_implaus_patient_visits_relative.jpg	1									
+33	pic	plaus	33_plaus_boss_orders_worker.jpg	1									
+33	pic	implaus	33_implaus_worker_orders_boss.jpg	2									
+34	pic	plaus	34_plaus_dog_leading_blind_person.jpg	2									
+34	pic	implaus	34_implaus_blind_person_leading_dog.jpg	1									
+35	pic	plaus	35_plaus_bouncer_rejects_girl.jpg	1									
+35	pic	implaus	35_implaus_girl_rejects_bouncer.jpg	2									
+36	pic	plaus	36_plaus_dog_licking_child.jpg	2									
+36	pic	implaus	36_implaus_child_licking_dog.jpg	1									
+37	pic	plaus	37_plaus_man_proposing_to_woman.jpg	1									
+37	pic	implaus	37_implaus_woman_proposing_to_man.jpg	2									
+38	pic	plaus	38_plaus_tailor_measuring_princess.jpg	2									
+38	pic	implaus	38_implaus_princess_measuring_tailor.jpg	1									
+39	pic	plaus	39_plaus_lifeguard_saves_grandma.jpg	1									
+39	pic	implaus	39_implaus_grandma_saves_lifeguard.jpg	2									
+40	pic	plaus	40_plaus_chauffeur_opens_door_for_lady.jpg	2									
+40	pic	implaus	40_implaus_lady_opens_door_for_chauffeur.jpg	1									
